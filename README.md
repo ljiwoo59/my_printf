@@ -48,5 +48,5 @@ typedef struct s_option
 * Print array and increase _g_count_.
 * _Free_ array.
 
-## For explainations
+## More explainations
 https://velog.io/@ljiwoo59/ftprintf
